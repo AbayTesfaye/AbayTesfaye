@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student at **Haramaya University**
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://abaytesfayeportifolio.netlify.app/](https://abaytesfaye.netlify.app/)
 
