@@ -1,9 +1,10 @@
-<div>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 20px;">
+    <div style="flex: 1; padding-right: 20px;">
+        <h1 style="text-align: left;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
+        <h3 style="text-align: left; color: #555;">I'm a passionate Full Stack Developer from Ethiopia.</h3>
+    </div>
+    <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 </div>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
-<h3 align="left">I'm a passionate Full Stack Developer from Ethiopia.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -50,16 +51,13 @@
     </a>
 </p>
 
-## 📊 GitHub Profile Summary
+## 📊 Abay GitHub Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbayTesfaye&theme=dracula&utcOffset=8)
-
-<br/>
-<br/>
 
 ## Connect with me:
 
