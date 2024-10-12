@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Ethiopia.</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
+<h3 align="left">I'm a passionate Full Stack Developer from Ethiopia.</h3>
 
 ## 🙋‍♂️ About Me
 
