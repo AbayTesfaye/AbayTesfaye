@@ -48,19 +48,13 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 GitHub Profile Summary
 
-  <br/>
-    <a href="https://github.com/AbayTesfaye/github-readme-stats"><img alt="Abay Tesfaye Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbayTesfaye&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AbayTesfaye/github-readme-stats"><img alt="Abay Tesfaye Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbayTesfaye&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-<br/>
-
-<a href="https://app.netlify.com/teams/abaytesfaye02/sites">
-    <img alt="Abay Tesfaye Activity Graph" src="https://app.netlify.com/teams/abaytesfaye02/sites/graph?username=AbayTesfaye&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbayTesfaye&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbayTesfaye&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbayTesfaye&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbayTesfaye&theme=dracula&utcOffset=8)
 
 <br/>
 <br/>
