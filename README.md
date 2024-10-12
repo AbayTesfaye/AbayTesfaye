@@ -58,7 +58,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AbayTesfaye/github-readme-activity-graph"><img alt="Abay Tesfaye Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbayTesfaye&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://app.netlify.com/teams/abaytesfaye02/sites">
+    <img alt="Abay Tesfaye Activity Graph" src="https://app.netlify.com/teams/abaytesfaye02/sites/graph?username=AbayTesfaye&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
 
 <br/>
 <br/>
