@@ -7,6 +7,7 @@
 </div>
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently student at **Haramaya University**
