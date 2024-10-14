@@ -1,10 +1,11 @@
-<div style="display: flex; align-items: center; justify-content: space-between; margin: 20px;">
-    <div style="flex: 1; text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px; flex-direction: column;">
+    <div style="text-align: center;">
         <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
         <h3 style="color: #555;">I'm a passionate Full Stack Developer from Ethiopia.</h3>
     </div>
-    <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+    <img alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 </div>
+
 
 ## 🙋‍♂️ About Me
 
