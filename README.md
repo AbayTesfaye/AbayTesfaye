@@ -1,13 +1,31 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px; flex-direction: column;">
     <div style="text-align: center;">
         <h1 style="margin: auto 5px; text-align: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
-        <h3 style="color: #555; text-align: center;">I'm a passionate Full Stack Developer from Ethiopia.</h3>
+        <h3 id="dynamic-title" style="color: #555; text-align: center;">I'm a passionate Full Stack Developer from Ethiopia.</h3>
     </div>
     <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
         <img alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
         <img alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1000/1*dcL4QoY64t9rOsLQpNYwJg.gif" />
     </div>
 </div>
+
+<script>
+  // Function to toggle between job titles
+  const titles = [
+    "I'm a passionate Full Stack Developer from Ethiopia.",
+    "I'm also a skilled Digital Marketer from Ethiopia."
+  ];
+
+  let currentIndex = 0;
+  const titleElement = document.getElementById('dynamic-title');
+
+  // Switch titles every 3 seconds
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % titles.length;
+    titleElement.innerHTML = titles[currentIndex];
+  }, 3000); // Change the title every 3 seconds (3000 ms)
+</script>
+
 
 
 ## 🙋‍♂️ About Me
