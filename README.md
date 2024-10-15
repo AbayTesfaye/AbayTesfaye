@@ -9,25 +9,6 @@
     </div>
 </div>
 
-<script>
-  // Function to toggle between job titles
-  const titles = [
-    "I'm a passionate Full Stack Developer from Ethiopia.",
-    "I'm also a skilled Digital Marketer from Ethiopia."
-  ];
-
-  let currentIndex = 0;
-  const titleElement = document.getElementById('dynamic-title');
-
-  // Switch titles every 3 seconds
-  setInterval(() => {
-    currentIndex = (currentIndex + 1) % titles.length;
-    titleElement.innerHTML = titles[currentIndex];
-  }, 3000); // Change the title every 3 seconds (3000 ms)
-</script>
-
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently student at **Haramaya University**
