@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px; flex-direction: column;">
     <div style="text-align: center;">
-        <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
+        <h1 style="margin: auto 5px;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abay</h1>
         <h3 style="color: #555;">I'm a passionate Full Stack Developer from Ethiopia.</h3>
     </div>
     <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
