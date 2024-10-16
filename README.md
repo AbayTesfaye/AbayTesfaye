@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently student at **Haramaya University**
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React,Php,Laravel and etc**
+- 🌱 I’m also interested on **Digital Markating**
 
 - 👨‍💻 All of my projects are available at **[https://abaytesfaye.netlify.app/](https://abaytesfaye.netlify.app/)**
 
 - 📫 How to reach me **abaytesfaye02@gmail.com**
+
+- 💬 Feel free for **DM**
 
 ## 🚀 Languages and Tools:
 
