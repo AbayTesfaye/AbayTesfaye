@@ -54,7 +54,7 @@
     </a>
 </p>
 
-## 📊 Abay GitHub Profile Summary
+## 📊 My GitHub Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbayTesfaye&theme=dracula)
@@ -72,9 +72,5 @@
 
 </p>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AbayTesfaye">
-</a>
+## My ❤ Followers
 <a href="https://github.com/AbayTesfaye?tab=followers"><img src="https://img.shields.io/github/followers/AbayTesfaye?label=Followers&style=social" alt="GitHub Badge"></a>
