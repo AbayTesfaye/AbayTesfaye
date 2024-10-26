@@ -62,7 +62,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbayTesfaye&theme=dracula&utcOffset=8)
 
-## Connect with me:
+## Social Media:
 
 <p align="left">
 
