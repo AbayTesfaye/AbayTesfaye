@@ -9,7 +9,7 @@
     </div>
 </div>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Abay
 
 - 🔭 I’m currently student at **Haramaya University**
 
