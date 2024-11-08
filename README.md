@@ -31,12 +31,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/AbayTesfaye/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abay Tesfaye streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbayTesfaye&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
-
-
 
 
 ## 📊 My GitHub Profile Summary
