@@ -24,8 +24,8 @@
 ## 🚀 Languages and Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,php,laravel,oracle" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,,typescript,react,nextjs,nodejs,express,php,laravel,figma" />
+    <img src="https://skillicons.dev/icons?i=python,C++,java,firebase,mongodb,mysql,oracle,flask,vscode,github,git" /><br>
 </div>
 
 <br/>
