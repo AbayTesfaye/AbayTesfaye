@@ -3,9 +3,7 @@
      <h1 align="center">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋✋;+💥+I'm+Abay+Tesfaye!+💥;+Software+Engineering+Student!+🎉;" />
         </h1>
-       <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=8000&lines=✨+ I'm+a+passionate+Laravel-heavy+Full+Stack+Developer+from+Ethiopia.+✨" />
-</h3>
+   <h3 align="center">I'm a passionate Laravel-heavy Full Stack Developer from Ethiopia.</h3>
     </div>
     <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
         <img alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
