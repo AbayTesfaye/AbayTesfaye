@@ -52,5 +52,5 @@
 
 </p>
 
-## My ❤ Followers
+## My ❤ Followers:
 <a href="https://github.com/AbayTesfaye?tab=followers"><img src="https://img.shields.io/github/followers/AbayTesfaye?label=Followers&style=social" alt="GitHub Badge"></a>
