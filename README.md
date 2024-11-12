@@ -23,7 +23,7 @@
 ## 🚀 Languages and Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,Go,figma" />
     <img src="https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,flask,vscode,github,git" /><br>
 </div>
 
