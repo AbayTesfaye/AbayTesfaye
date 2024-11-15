@@ -23,20 +23,8 @@
 ## 🚀 Languages and Tools:
 
 <div align="center">
-    <!-- Frontend Technologies -->
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,figma" 
-         alt="Frontend Technologies" 
-         title="Frontend Skills" 
-         style="transition: transform 0.3s ease; margin: 10px; width: 80%; max-width: 150px; border-radius: 8px; cursor: pointer;" />
-    <!-- Backend and Tools Skills -->
-    <img src="https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,flask,vscode,github,git,photoshop" 
-         alt="Backend and Tools Skills" 
-         title="Backend and Tools Skills" 
-         style="transition: transform 0.3s ease; margin: 10px; width: 80%; max-width: 150px; border-radius: 8px; cursor: pointer;" /><br>
-    <!-- Hover Effect using inline styles -->
-    <div style="display: flex; justify-content: center; margin-top: 20px;">
-        <p style="font-size: 18px; color: #333;">Hover over the icons to see the effects!</p>
-    </div>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,figma" />
+    <img src="https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,flask,vscode,github,git,photoshop" /><br>
 </div>
 
 
