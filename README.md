@@ -3,7 +3,7 @@
      <h1 align="center">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abay+Tesfaye!+💥;+✨+Software+Engineering+Student!+🎉;" />
         </h1>
-   <h3 align="center">I'm a passionate Laravel-heavy Full Stack Developer from Ethiopia.</h3>
+   <h3 align="center">I'm a passionate Laravel-heavy Web Developer from Ethiopia.</h3>
     </div>
 </div>
 
