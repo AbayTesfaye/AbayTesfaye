@@ -32,7 +32,7 @@
 <br/>
 
 <p align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </p>
 
 
