@@ -8,7 +8,7 @@
 </div>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently student at **Haramaya University**
 
