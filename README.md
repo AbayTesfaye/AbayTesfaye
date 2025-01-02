@@ -36,7 +36,7 @@
 </p>
 
 
-## 📊 My GitHub Profile Summary
+## 📊 My GitHub Profile Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbayTesfaye&theme=dracula)
