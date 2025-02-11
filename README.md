@@ -26,16 +26,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,figma" />
     <img src="https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,flask,vscode,github,git,gitlab,photoshop" /><br>
 </div>
-
-
-
 <br/>
-
-<p align="center">
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</p>
-
-
 ## 📊 My GitHub Profile Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
