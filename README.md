@@ -18,7 +18,7 @@
 
 - 🌱 I’m also interested on **Digital Markating**
 
-- 👨‍💻 All of my projects are available at **[https://abaytesfaye.netlify.app/](https://abaytesfaye.netlify.app/)**
+- 👨‍💻 All of my projects are available at **https://my-portfolio-delta-three-43.vercel.app/**
 
 - 📫 How to reach me **abaytesfaye02@gmail.com**
 
