@@ -6,7 +6,7 @@
     <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbayTesfaye&theme=radical" alt="GitHub Streak" />
 </p>
-    <h3 align="center">✨I'm a Passionate Web Developer!✨</h3>
+    <h3 align="center">✨ Web Developer || Dreamer ✨</h3>
   </div>
 </div>
 
